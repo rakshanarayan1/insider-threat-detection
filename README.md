@@ -24,7 +24,7 @@ This project aims to build a cutting-edge web platform to detect and alert on po
 
 ## Project Roadmap
 
-1. Define requirements and MVP scope (current stage).
+1. Define requirements and MVP scope.
 2. Setup development environment and initialize codebase.
 3. Collect or simulate insider activity log data.
 4. Prototype baseline anomaly detection algorithms in Python notebooks.
