@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a cutting-edge web platform to detect and alert on potential insider threats within an organization by analyzing user activity logs in real time. Insider threats — whether intentional or accidental — pose significant risks to organizational security. This platform combines advanced AI anomaly detection models with a user-friendly dashboard to empower Security Operations Center (SOC) analysts to quickly identify and respond to suspicious behavior.
+This project aims to build a cutting-edge web platform to detect and alert on potential insider threats within an organization by analyzing user activity logs in real time. Insider threats  whether intentional or accidental pose significant risks to organizational security. This platform combines advanced AI anomaly detection models with a user-friendly dashboard to empower Security Operations Center (SOC) analysts to quickly identify and respond to suspicious behavior.
 
 ## Core Features and MVP Goals
 
